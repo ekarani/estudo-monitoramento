@@ -1,0 +1,3 @@
+cpu_load,host=hostname value=89
+mem_load,host=hostname value=93
+mem_free,host=hostname value=
